@@ -113,6 +113,8 @@ Hotkeys
 ~~~~~~~
 
 +------------+--------------------------------------------+
+| F          | Add a new boundingBox                      |
++------------+--------------------------------------------+
 | Ctrl + u   | Load all of the images from a directory    |
 +------------+--------------------------------------------+
 | Ctrl + r   | Change the default annotation target dir   |
