@@ -15,7 +15,7 @@ It is written in Python and uses Qt for its graphical interface.
 Annotations are saved as XML files in PASCAL VOC format, the format used
 by `ImageNet <http://www.image-net.org/>`__.
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.jpg
+.. image:: https://github.com/tigerzhaoyue/Face_Boundingbox_Attributes/blob/master/demo/demo3.jpg
      :alt: Demo Image
 
 Installation
