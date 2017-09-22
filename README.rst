@@ -7,7 +7,8 @@ LabelImg
 .. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
         :target: https://travis-ci.org/tzutalin/labelImg
 
-LabelImg is a graphical image annotation tool.
+LabelImg is a graphical face image annotation tool.
+Baseline project: https://github.com/tzutalin/labelImg
 
 It is written in Python and uses Qt for its graphical interface.
 
@@ -16,8 +17,6 @@ by `ImageNet <http://www.image-net.org/>`__.
 
 .. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.jpg
      :alt: Demo Image
-
-`Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
 
 Installation
 ------------------
@@ -129,20 +128,16 @@ Steps
 2. Click 'Change default saved annotation folder' in Menu/File
 3. Click 'Open Dir'
 4. Click 'Create RectBox'
-5. Click and release left mouse to select a region to annotate the rect
+5. Click and release left mouse to select a square region to annotate the square
    box
-6. You can use right mouse to drag the rect box to copy or move it
+6. You can use right mouse to drag the square box to copy or move it
 
-The annotation will be saved to the folder you specify.
+The annotation and atttributes of faces will be saved to the folder you specify.
 
 You can refer to the below hotkeys to speed up your workflow.
 
 Create pre-defined classes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-You can edit the
-`data/predefined\_classes.txt <https://github.com/tzutalin/labelImg/blob/master/data/predefined_classes.txt>`__
-to load pre-defined classes
 
 Hotkeys
 ~~~~~~~
@@ -173,16 +168,6 @@ Hotkeys
 | ↑→↓←       | Keyboard arrows to move selected rect box  |
 +------------+--------------------------------------------+
 
-How to contribute
-~~~~~~~~~~~~~~~~~
-
-Send a pull request
-
-License
-~~~~~~~
-`Free software: MIT license <https://github.com/tzutalin/labelImg/blob/master/LICENSE>`_
-
-Citation: Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
 
 Related
 ~~~~~~~
