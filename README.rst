@@ -1,4 +1,4 @@
-LabelImg
+Face_Boundingbox_Attributes
 ========
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
