@@ -20,6 +20,14 @@ by `ImageNet <http://www.image-net.org/>`__.
 
 Installation
 ------------------
+
+Build from source
+~~~~~~~~~~~~~~~~~
+
+Linux/Ubuntu/Mac requires at least `Python
+2.6 <http://www.python.org/getit/>`__ and has been tested with `PyQt
+4.8 <http://www.riverbankcomputing.co.uk/software/pyqt/intro>`__.
+
 Ubuntu Linux
 ^^^^^^^^^^^^
 Python 2 + Qt4
