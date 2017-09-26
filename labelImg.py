@@ -1183,7 +1183,7 @@ class MainWindow(QMainWindow, WindowMixin):
         else:
             text = self.defaultLabelTextLine.text()
         '''
-        text = 'Face'
+        text = 'face'
 
         # Add Chris
         '''
