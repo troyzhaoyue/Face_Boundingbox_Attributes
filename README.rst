@@ -7,8 +7,6 @@ Face_Boundingbox_Attributes
 .. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
         :target: https://travis-ci.org/tzutalin/labelImg
 
-LabelImg is a graphical face image annotation tool.
-Baseline project: https://github.com/tzutalin/labelImg
 
 It is written in Python and uses Qt for its graphical interface.
 
