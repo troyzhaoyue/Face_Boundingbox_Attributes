@@ -55,24 +55,6 @@ Python 2 + Qt4
     python labelImg.py
     python  labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
-
-Windows
-^^^^^^^
-
-Download and setup `Python 2.6 or
-later <https://www.python.org/downloads/windows/>`__,
-`PyQt4 <https://www.riverbankcomputing.com/software/pyqt/download>`__
-and `install lxml <http://lxml.de/installation.html>`__.
-
-Open cmd and go to `labelImg <#labelimg>`__ directory
-
-.. code::
-
-    pyrcc4 -o resources.py resources.qrc
-    python labelImg.py
-    python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
-
-
 Usage
 -----
 
@@ -125,10 +107,3 @@ Hotkeys
 | ↑→↓←       | Keyboard arrows to move selected rect box  |
 +------------+--------------------------------------------+
 
-
-Related
-~~~~~~~
-
-1. `ImageNet Utils <https://github.com/tzutalin/ImageNet_Utils>`__ to
-   download image, create a label text for machine learning, etc
-2. `Docker hub to run it <https://hub.docker.com/r/tzutalin/py2qt4>`__
