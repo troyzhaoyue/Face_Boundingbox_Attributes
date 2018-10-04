@@ -1,12 +1,7 @@
 Face_Boundingbox_Attributes
 ========
 
-.. image:: https://img.shields.io/pypi/v/labelimg.svg
-        :target: https://pypi.python.org/pypi/labelimg
-
-.. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
-        :target: https://travis-ci.org/tzutalin/labelImg
-
+Baseline: https://travis-ci.org/tzutalin/labelImg
 
 It is written in Python and uses Qt for its graphical interface.
 
